@@ -21,7 +21,27 @@
 
 ---
 #### 技术栈
+> 语言：
+> > 掌握java编程语言，熟悉Spring/Spring-Boot/Spring-cloud技术
+> > 熟悉python，会写基础爬虫，做过简单数据分析
 > 
+> 缓存：
+> > 熟悉redis/kafka
+> > 熟悉guava的cache
+>
+> 消息队列：
+> > 熟悉rabbitmq
+>
+> 数据库：
+> > 掌握mysql/oracle，做过基本优化
+>
+> 分布式：
+> > 熟悉zookeeper
+> 
+> linux:
+> > 日常以 Linux/Mac 作为开发环境，熟练常用 Linux 命令，
+可以写一些基础的 Shell 脚本完成一些运维功能
+
 
 
 ---
